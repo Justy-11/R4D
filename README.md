@@ -7,4 +7,6 @@ Used datasets :
 <br>Dowsiness detection model - MRL eye dataset + Closed Eyes In The Wild (CEW) dataset + ZJU eyeblink dataset
 <br>Distraction detection model - Statefarm driver distraction dataset
 
+Novelty - using a cmbined dataset that is not used in any of the existing systems. This means that model will be trained on a more diverse dataset, which could lead to improved performance.
+
 Keywords - Transfer Learning · Driver monitoring system · Pre-trained Models · OpenCV · TensorFlow · NumPy · Matplotlib · Keras · Scikit-Learn · Deep Learning · Python (Programming Language)
