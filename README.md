@@ -38,7 +38,7 @@ One of the key highlights of this project is the use of a combined dataset that 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]([LICENSE.md](https://github.com/Justy-11/R4D/blob/988f3ce100134d355b0251eb3e851338114116f7/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Justy-11/R4D/blob/988f3ce100134d355b0251eb3e851338114116f7/LICENSE) file for details.
 
 
 
