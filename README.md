@@ -10,3 +10,23 @@ Used datasets :
 Novelty - using a cmbined dataset that is not used in any of the existing systems. This means that model will be trained on a more diverse dataset, which could lead to improved performance.
 
 Keywords - Transfer Learning · Driver monitoring system · Pre-trained Models · OpenCV · TensorFlow · NumPy · Matplotlib · Keras · Scikit-Learn · Deep Learning · Python (Programming Language)
+
+R4D/
+│
+├── DrowsinessDetectionOnCombinedDataset/
+│   ├── saved_data/    
+|   |   ├── models/
+|   |   |   └── model and history files
+|   |   |
+|   |   └──  saved .npy and .pkl array files
+|   |  
+│   ├── 01_Data_Preprocessing.ipynb
+|   ├── 02_Model_Training.ipynb
+|   ├── 03_Model_evaluation.ipynb
+│   └── 04_Realtime_detection.ipynb
+│
+├── haarcascade_eye.xml
+│
+├── haarcascade_frontalface_default.xml
+|
+└── README.md, LICENSE
