@@ -1,10 +1,10 @@
 # Real-time Drowsiness and Distraction Detection System for Drivers
 
-## Overview
+## Overview 🚀 👁️ 🚗
 
 This is a real-time Drowsiness and Distraction Detection System using transfer learning. It addresses critical concerns related to driver safety and attentiveness, particularly in the context of road safety and human-machine interaction. It detects the driver's eye state and recognizes various forms of distraction behaviors by analyzing real-time visual data, allowing for timely warnings and intervention.
 
-## Datasets
+## Datasets 📊
 
 **Drowsiness Detection Model:**
 - MRL eye dataset
@@ -14,7 +14,7 @@ This is a real-time Drowsiness and Distraction Detection System using transfer l
 **Distraction Detection Model:**
 - Statefarm driver distraction dataset
 
-## Novelty
+## Novelty 🌟
 
 One of the key highlights of this project is the use of a combined dataset that has not been used in any of the existing systems. This means that the model will be trained on a more diverse dataset, which could lead to improved performance.
 
@@ -36,13 +36,11 @@ One of the key highlights of this project is the use of a combined dataset that 
 
 ## Usage
 
-## License
+## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Justy-11/R4D/blob/988f3ce100134d355b0251eb3e851338114116f7/LICENSE) file for details.
 
-
-
-## Acknowledgments
+## Acknowledgments 🙏
 
 
 ```
