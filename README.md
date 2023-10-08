@@ -54,7 +54,7 @@ R4D/
 |   |   ├── models/
 |   |   |   └── model and history files
 |   |   |
-|   |   └──  saved .npy and .pkl array files
+|   |   └──  saved .npy and .pkl image array files
 |   |  
 │   ├── 01_Data_Preprocessing.ipynb
 |   ├── 02_Model_Training.ipynb
