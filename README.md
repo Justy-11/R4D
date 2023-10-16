@@ -20,8 +20,18 @@ One of the key highlights of this project is the use of a combined dataset that 
 
 ## Keywords
 
-- Transfer Learning - Driver Monitoring System - Pre-trained Models - OpenCV - TensorFlow - NumPy - Matplotlib
-- Keras - Scikit-Learn - Deep Learning - Python (Programming Language) - Seaborn
+- Transfer Learning
+- Driver Monitoring System
+- Pre-trained Models
+- OpenCV
+- TensorFlow
+- NumPy
+- Matplotlib
+- Keras
+- Scikit-Learn
+- Deep Learning
+- Python (Programming Language)
+- Seaborn
 
 ## Getting Started
 
