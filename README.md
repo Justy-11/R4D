@@ -35,13 +35,13 @@ One of the key highlights of this project is the use of a combined dataset that 
 
 ## Getting Started
 
-Download the specified datasets.
-Download the jupyter notebook files and change the paths to the datasets, and other data in the code.
-Run...
+- Download the specified datasets.
+- Download the jupyter notebook files and change the paths to the datasets, and other data in the code.
+- Run...
 
 Note: 
-for drowsiness detection - download and run 01, 07, 08, and 09 (because rest of the files contain the manual process of training and finding the best model).
-Directories used to save the data also given, if needed you can change those directories structure. Make sure to update the directory paths in the files.
+- for drowsiness detection - download and run 01, 07, 08, and 09 (because rest of the files contain the manual process of training and finding the best model).
+- Directories used to save the data also given, if needed you can change those directory structures. Make sure to update the directory paths in the files.
 
 ## License 📜
 
