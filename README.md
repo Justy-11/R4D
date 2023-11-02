@@ -56,11 +56,14 @@ R4D/
 |   |   |   └── model and history files
 |   |   |
 |   |   └──  saved .npy and .pkl image array files
+|   | 
+│   ├── tune_dir/
 |   |  
 │   ├── 01_Data_Preprocessing.ipynb
 |   ├── 02_Model_Training.ipynb
 |   ├── 03_Model_evaluation.ipynb
-│   └── 04_Realtime_detection.ipynb
+|   ├── 04_Realtime_detection.ipynb
+│   └── ...
 │
 ├── haarcascade_eye.xml
 │
