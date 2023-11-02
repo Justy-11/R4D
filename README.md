@@ -39,6 +39,8 @@ Download the specified datasets.
 Download the jupyter notebook files and change the paths to the datasets, and other data in the code.
 Run it
 
+Note: for drowsiness detection - download and run only 01, 07, 08, and 09 (because rest of the files contain the manual process of training and finding the best model)
+
 ## License 📜
 
 This project is licensed under the MIT - see the [LICENSE.md](https://github.com/Justy-11/R4D/blob/988f3ce100134d355b0251eb3e851338114116f7/LICENSE) file for details.
