@@ -18,21 +18,6 @@ This is a real-time Drowsiness and Distraction Detection System using transfer l
 
 One of the key highlights of this project is the use of a combined dataset that has not been used in any of the existing systems. This means that the model will be trained on a more diverse dataset, which could lead to improved performance.
 
-## Keywords
-
-- Transfer Learning
-- Driver Monitoring System
-- Pre-trained Models
-- OpenCV
-- TensorFlow
-- NumPy
-- Matplotlib
-- Keras
-- Scikit-Learn
-- Deep Learning
-- Python (Programming Language)
-- Seaborn
-
 ## Getting Started
 
 - Download the specified datasets.
@@ -48,6 +33,10 @@ Note:
 This project is licensed under the MIT - see the [LICENSE.md](https://github.com/Justy-11/R4D/blob/988f3ce100134d355b0251eb3e851338114116f7/LICENSE) file for details.
 
 ## Acknowledgments 🙏
+
+## Keywords
+
+- Transfer Learning - Driver Monitoring System - Pre-trained Models - OpenCV - TensorFlow - NumPy - Matplotlib - Keras - Scikit-Learn - Deep Learning - Python (Programming Language) - Seaborn
 
 ## Folder structure 📁
 
