@@ -36,7 +36,7 @@ This project is licensed under the MIT - see the [LICENSE.md](https://github.com
 
 ## Keywords
 
-- Transfer Learning - Driver Monitoring System - Pre-trained Models - OpenCV - TensorFlow - NumPy - Matplotlib - Keras - Scikit-Learn - Deep Learning - Python (Programming Language) - Seaborn
+Transfer Learning - Driver Monitoring System - Pre-trained Models - OpenCV - TensorFlow - NumPy - Matplotlib - Keras - Keras-tuner - Scikit-Learn - Deep Learning - Python (Programming Language) - Seaborn
 
 ## Folder structure 📁
 
