@@ -26,7 +26,7 @@ One of the key highlights of this project is the use of a combined dataset that 
 
 Note: 
 - for drowsiness detection - download and run -01, 00, 01, 07, 08, and 09 (rest of the files contain the manual process of training and finding the best model - not necessary).
-- Directories used to save the data also given, if needed you can change those directory structures. Make sure to update the directory paths in the files.
+- Directories used to save the data also given, if needed you can change those directory structures. Make sure to update dataset and directory paths in the files.
 
 ## License 📜
 
