@@ -1,5 +1,8 @@
 # Real-time Drowsiness and Distraction Detection System for Drivers
 
+![Animated GIF](https://github.com/Justy-11/R4D/tree/main/result_GIFs/dis_det_gif.gif)
+
+
 ## Overview 🚀 🚗
 
 This is a real-time Drowsiness and Distraction Detection System using transfer learning. It addresses critical concerns related to driver safety and attentiveness, particularly in the context of road safety and human-machine interaction. It detects the driver's eye state and recognizes various forms of distraction behaviors by analyzing real-time visual data, allowing for timely warnings and intervention.
