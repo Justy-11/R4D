@@ -12,7 +12,7 @@ This is a real-time Drowsiness and Distraction Detection System using transfer l
 - ZJU eyeblink dataset
 
 **Distraction Detection Model:**
-- Statefarm driver distraction dataset
+- Statefarm driver distraction dataset (with manual label error correction)
 
 ## Novelty 🌟
 
@@ -26,6 +26,7 @@ One of the key highlights of this project is the use of a combined dataset that 
 
 Note: 
 - Directories used to save the data also given, if needed you can change those directory structures. Make sure to update dataset and directory paths in the files.
+- Reproducing results might not be possible, because data were chosen randomly (Ex: subset of MRL is chosen for drowsiness detctection model)
 
 ## License 📜
 
