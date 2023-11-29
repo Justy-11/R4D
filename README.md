@@ -1,6 +1,6 @@
 # Real-time Drowsiness and Distraction Detection System for Drivers
 
-![Animated GIF](https://github.com/Justy-11/R4D/tree/main/result_GIFs/dis_det_gif.gif)
+![Distraction detection](https://github.com/Justy-11/R4D/tree/main/result_GIFs/dis_det_gif.gif)
 
 
 ## Overview 🚀 🚗
