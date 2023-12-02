@@ -6,7 +6,7 @@
 
 This is a real-time Drowsiness and Distraction Detection System using transfer learning. It addresses critical concerns related to driver safety and attentiveness, particularly in the context of road safety and human-machine interaction. It detects the driver's eye state and recognizes various forms of distraction behaviors by analyzing real-time visual data, allowing for timely warnings and intervention.
 
-## Datasets 📊
+## Datasets used 📊
 
 **Drowsiness Detection Model:**
 - MRL eye dataset
@@ -27,8 +27,9 @@ One of the key highlights of this project is the use of a combined dataset that 
 - Run...
 
 Note: 
-- Directories used to save the data also given, if needed you can change those directory structures. Make sure to update dataset and directory paths in the files.
-- Reproducing results might not be possible, because data were chosen randomly (Ex: subset of MRL is chosen for drowsiness detctection model)
+- Directories structures used to save the data also given, if needed you can change those structures. Make sure to update dataset and directory paths in the files.
+- Trained model files (model file, model history, tflite (precision - float16) converted model) also given
+- Reproducing results might not be possible - data were chosen randomly (Ex: subset of MRL is chosen for drowsiness detctection model)
 
 ## License 📜
 
@@ -36,7 +37,7 @@ This project is licensed under the MIT - see the [LICENSE.md](https://github.com
 
 ## Keywords
 
-Transfer Learning - Driver Monitoring System - Pre-trained Models - OpenCV - TensorFlow - NumPy - Matplotlib - Keras - Keras-tuner - Scikit-Learn - Deep Learning - Python (Programming Language) - Seaborn
+Transfer Learning - Driver Monitoring System - Pre-trained Models - OpenCV - TensorFlow - NumPy - Matplotlib - Keras - Keras-tuner - Scikit-Learn - Deep Learning - Python (Programming Language) - Seaborn - tflite
 
 ## Folder structure 📁
 
