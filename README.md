@@ -1,7 +1,7 @@
 # Real-time Drowsiness and Distraction Detection System for Drivers
 
 <img src="result_GIFs/dis_det_gif.gif">
-<img src="result_GIFs/dr_det.gif">
+<img src="result_GIFs/dr_det.gif" width="300">
 
 ## Overview 🚀 🚗
 
